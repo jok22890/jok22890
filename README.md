@@ -17,3 +17,5 @@ Follow me
 
 [![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=red)](https://www.youtube.com/@%D0%91%D0%B0%D0%B3_%D0%B8%D0%BB%D0%B8_%D0%A4%D0%B8%D1%87%D0%B0)
 [![Steam](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=Steam&logoColor=blue)](https://steamcommunity.com/profiles/76561199244898560/)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jok22890)](https://github.com/stats-organization/github-stats-extended)
