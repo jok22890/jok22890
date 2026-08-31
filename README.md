@@ -7,10 +7,8 @@ Languages and Tools
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
-
 ![Boost_Asio](https://img.shields.io/badge/BOOST_BEAST-090909?style=for-the-badge&logo=socket.io&logoColor=06B6D4)
 ![Boost_Asio](https://img.shields.io/badge/BOOST_ASIO-090909?style=for-the-badge&logo=lightning&logoColor=1E40AF)
-
 ![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=red)
 ![Cmake](https://img.shields.io/badge/CMAKE-090909?style=for-the-badge&logo=cmake&logoColor=06C494)
 ![Qt](https://img.shields.io/badge/QT-090909?style=for-the-badge&logo=qt&logoColor=green)
